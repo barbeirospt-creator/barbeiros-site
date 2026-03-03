@@ -1,0 +1,21 @@
+## Pages
+- [| Perfil do Barbeiro](/barberprofiledetail): No description available
+- [A Minha Agenda | Barbeiros PT](/appointments): Faça a gestão dos seus agendamentos e horários.
+- [Barbeiros.pt - Comunidade Premium de Barbearias](/home): Junte-se à plataforma comunitária premium para barbearias portuguesas. Conecte-se, exponha o seu negócio e expanda com o Barbeiros.pt
+- [Compras Em Grupo | Barbeiros PT](/comprasemgrupo): Junte-se a outros barbeiros para obter melhores preços em produtos.
+- [Comunidade | Barbeiros PT](/comunidade): Conecte-se com a comunidade de barbeiros de Portugal.
+- [Comunidade de Barbeiros | Barbeiros PT](/comunidadebarber): Encontre e conecte-se com os melhores barbeiros de Portugal.
+- [Contacto - Barbeiros.pt](/contact): Entre em contacto com a equipa do Barbeiros.pt. Estamos aqui para ajudar a sua barbearia.
+- [Eventos - Barbeiros.pt](/events): Eventos e workshops para a comunidade de barbeiros em Portugal.
+- [Fórum da Comunidade | Barbearia PT](/communityforum): Discuta ideias, partilhe técnicas e faça perguntas na nossa comunidade de barbeiros.
+- [Login - Barbeiros.pt](/login): Login to your Barbeiros.pt account to access premium barbershop community features.
+- [Meu Negócio - Showcase | Barbeiros PT](/businessshowcase): Faça a gestão da montra do seu negócio de barbearia.
+- [Os Meus Clientes | Barbeiros PT](/clients): Faça a gestão da sua lista de clientes e histórico.
+- [Perguntas Frequentes - Barbeiros.pt](/faq): Perguntas frequentes sobre as funcionalidades da plataforma Barbeiros.pt, faturação e diretrizes da comunidade.
+- [Política de Cookies - Barbeiros.pt](/cookiepolicy): Política de cookies do Barbeiros.pt.
+- [Política de Privacidade - Barbeiros.pt](/privacypolicy): Política de privacidade do Barbeiros.pt.
+- [Pré-Compra | Barbeiros PT](/precompra): Faça a gestão de pré-compras e encomendas.
+- [Register - Barbeiros.pt](/signup): Create your Barbeiros.pt account and join the premium barbershop community.
+- [Sobre Nós - Barbeiros.pt](/about): Saiba mais sobre o Barbeiros.pt, a plataforma premium para barbearias portuguesas.
+- [Suporte - Barbeiros.pt](/support): Centro de suporte do Barbeiros.pt.
+- [Termos de Serviço - Barbeiros.pt](/termsofservice): Termos de serviço do Barbeiros.pt.
